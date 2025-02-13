@@ -6,7 +6,7 @@ const userEmail = prompt("Inserisci la tua email");
 console.log(userEmail);
 
 
-// Dichiarare una variabile con condizione TRUE
+// Dichiarare una variabile per aggiungere una condizione
 let x;
 
 // controlla che sia nella lista di chi può accedere
